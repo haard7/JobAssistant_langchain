@@ -5,6 +5,7 @@
 - For Exact skill to put in Resume
 - and Even Sample resume for perfect candidate for that job
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/1VvPtZF/Screenshot-2026-02-08-at-11-51-29-AM.png" alt="Screenshot-2026-02-08-at-11-51-29-AM" border="0" /></a>
 
 ## how to Run 
 
