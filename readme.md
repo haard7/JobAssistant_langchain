@@ -10,9 +10,11 @@
 
 1. clone repo
 2. create virtual env in python
-3. installl required dependencies
+3. create file for resume text `touch resume.txt`
+4. copy past all your resume text in there 
+4. installl required dependencies
     `pip install -r requirements.txt`
-4. run `streamlit run jobassistant.py`
+5. run `streamlit run jobassistant.py`
 
 
 
